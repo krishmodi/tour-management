@@ -1,0 +1,37 @@
+/* login.css */
+
+.login-container {
+    margin-top: 50px;
+  }
+  
+  .login-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form h2 {
+    color: #333;
+  }
+  
+  .login-form label {
+    font-weight: bold;
+  }
+  
+  .login-form .form-control {
+    margin-bottom: 15px;
+  }
+  
+  .login-form .text-center {
+    font-size: 14px;
+  }
+  
+  .login-form .text-center a {
+    color: #007bff;
+  }
+  
+  .login-form .text-center a:hover {
+    text-decoration: none;
+  }
+  
